@@ -1,13 +1,20 @@
 Package: koderkow
-Title: What the Package Does (One Line, Title Case)
+Title: Utility Functions
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    person(given = "Kyle",
+           family = "Harris",
            role = c("aut", "cre"),
-           email = "first.last@example.com",
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
-License: What license it uses
+           email = "koderkow@gmail.com")
+Description: This is the realm where the random chunks of code I use will live.
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
+RoxygenNote: 6.1.1
+Imports: 
+    plotly,
+    magrittr
+Suggests: 
+    spelling,
+    testthat (>= 2.1.0)
+Language: en-US
