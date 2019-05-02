@@ -1,5 +1,7 @@
 #' Remove Plotly Options on Plots
 #'
+#' Shortcut for a clean plotly plot
+#'
 #' @importFrom plotly config
 #'
 #' @param p a plotly object

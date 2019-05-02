@@ -5,6 +5,10 @@
 
 <!-- badges: start -->
 
+[![Travis build
+status](https://travis-ci.org/KoderKow/koderkow.svg?branch=master)](https://travis-ci.org/KoderKow/koderkow)
+[![Codecov test
+coverage](https://codecov.io/gh/KoderKow/koderkow/branch/master/graph/badge.svg)](https://codecov.io/gh/KoderKow/koderkow?branch=master)
 <!-- badges: end -->
 
 This is my packages that houses functions I find myself frequently using

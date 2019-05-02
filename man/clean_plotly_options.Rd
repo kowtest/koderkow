@@ -13,7 +13,7 @@ clean_plotly_options(p)
 a plotly object with all options besides 'download as png' on plotly plot
 }
 \description{
-Remove Plotly Options on Plots
+Shortcut for a clean plotly plot
 }
 \examples{
 # not run:
