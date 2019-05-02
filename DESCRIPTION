@@ -15,7 +15,6 @@ Imports:
     plotly,
     magrittr
 Suggests: 
-    spelling,
     testthat (>= 2.1.0),
     covr
 Language: en-US
