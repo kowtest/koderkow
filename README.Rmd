@@ -16,6 +16,7 @@ knitr::opts_chunk$set(
 
 <!-- badges: start -->
 [![Travis build status](https://travis-ci.org/KoderKow/koderkow.svg?branch=master)](https://travis-ci.org/KoderKow/koderkow)
+[![AppVeyor build status](https://ci.appveyor.com/api/projects/status/github/KoderKow/koderkow?branch=master&svg=true)](https://ci.appveyor.com/project/KoderKow/koderkow)
 [![Codecov test coverage](https://codecov.io/gh/KoderKow/koderkow/branch/master/graph/badge.svg)](https://codecov.io/gh/KoderKow/koderkow?branch=master)
 <!-- badges: end -->
 
