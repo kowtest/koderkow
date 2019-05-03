@@ -17,5 +17,6 @@ Imports:
     scales
 Suggests: 
     testthat (>= 2.1.0),
-    covr
+    covr,
+    pkgdown
 Language: en-US
