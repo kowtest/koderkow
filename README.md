@@ -13,9 +13,9 @@ status](https://ci.appveyor.com/api/projects/status/github/KoderKow/koderkow?bra
 coverage](https://codecov.io/gh/KoderKow/koderkow/branch/master/graph/badge.svg)](https://codecov.io/gh/KoderKow/koderkow?branch=master)
 <!-- badges: end -->
 
-This is my packages that houses functions I find myself frequently
-using. I am also using this package to learn about building flexible and
-robust packages\!
+This is my package that houses functions I find myself frequently using.
+I am also using this package to learn about building flexible and robust
+packages :)
 
 ## Installation
 
