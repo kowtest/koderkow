@@ -2,5 +2,7 @@
 
 export("%>%")
 export(clean_plotly_options)
+export(round_up)
 importFrom(magrittr,"%>%")
 importFrom(plotly,config)
+importFrom(scales,dollar)

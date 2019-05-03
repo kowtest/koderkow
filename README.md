@@ -61,3 +61,29 @@ p %>%
 <img src="https://i.imgur.com/gnIeKoU.png" width="60%" />
 
 </center>
+
+### round\_up
+
+Round whole numbers up. This function will always round up to the number
+place second to the left:
+
+``` r
+round_up(123456)
+#> [1] 130000
+```
+
+Number with only 2 numeric places (tens), then it will round on the tens
+position value:
+
+``` r
+round_up(19)
+#> [1] 20
+```
+
+If needed, we can change the value to a dollar amount. Using `as_dollar
+= TRUE` will change the numeric value to a character:
+
+``` r
+round_up(1991, as_dollar = TRUE)
+#> [1] "$2,000"
+```
